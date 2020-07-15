@@ -1,0 +1,27 @@
+Id|Priority|Details|Status|Deadline|Completed|Project
+1|1|Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod|Completed|05072019|01072019|Lorem Ipsum
+2|2|Suspendisse non leo. vivamus nibh dolor, nonumm.|In pending|05072019||Lorem Ipsum
+3|3|tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius|In progress|05062019||Tempor ut
+4|3|Nulla semper tellus id nunc interdum feugiat. s.|Completed|05062019|01062019|Tempor ut
+5|1|vel pharetra vel turpis nunc eget lorem. Elementum nibh tellus molestie|In progress|05052019||Pharetra
+6|2|Pede, malesuada vel, venenatis vel, faucibus id.|In progress|05052019||Pharetra
+7|2|Tellus. nunc lectus pede, ultrices a, auctor no.|Completed|05042019|03042019|Blandit massa
+8|3|Sagittis. duis gravida. praesent eu nulla at se.|Completed|05042019|02042019|Blandit massa
+9|2|Sapien. cras dolor dolor, tempus non, lacinia a.|In progress|05032019||Mauris
+10|2|Egestas hendrerit neque. in ornare sagittis fel.|Assigned|05032019||Mauris
+11|1|Purus. duis elementum, dui quis accumsan conval.|Assigned|05022019||Lobortis
+12|1|Nec, leo. morbi neque tellus, imperdiet non, ve.|In pending|05022019||Lobortis
+13|2|Luctus ut, pellentesque eget, dictum placerat, .|Assigned|05012019||Sagittis
+14|1|Dolor, nonummy ac,.|In pending|05012019||Sagittis
+15|1|Hendrerit a, arcu. sed et libero. proin mi. ali.|In progress|05112020||Egestas
+16|3|Lorem ac risus. morbi metus. vivamus.|In pending|05112020||Egestas
+17|2|Luctus et ultrices posuere cubilia curae; donec.|In progress|05102020||Turpis
+18|1|Eros nec tellus. nunc lectus pede, ultrices a, .|Completed|05102020|28092020|Turpis
+19|1|Quis, pede. praesent eu dui. cum sociis natoque.|Canceled|05092020||Volutpat
+20|1|Bibendum sed, est. nunc laoreet lectus quis mas.|Assigned|05092020||Volutpat
+21|3|Duis elementum, dui quis accumsan convallis, an.|Assigned|05082020||Phasellus
+22|3|Cursus luctus, ipsum leo elementum sem, vitae a.|In pending|05082020||Phasellus
+23|1|Magna. lorem ipsum dolor sit amet, consectetuer.|Canceled|05072020||Velit
+24|2|Sodales nisi magna sed dui. fusce aliquam, enim.|In pending|05072020||Velit
+25|3|Nulla aliquet. proin velit. sed malesuada augue.|Completed|05122020|16112020|Eleifend
+26|3|Ipsum cursus vestibulum. mauris magna. duis dig.|Canceled|05122020||Eleifend
